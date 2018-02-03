@@ -1,5 +1,5 @@
-Hello everybody
-Hello friends
-Hello girls
-Hi hi hi
-Hello or not
+Hello everybody;
+Hello friends;
+Hello girls;
+Hi hi hi;
+Hello or not;
